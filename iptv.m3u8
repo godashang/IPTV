@@ -259,15 +259,3 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-id="NETFLIXMOVIE1" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXMOVIE1
 https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN英语
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN纪录
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
-http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN法语
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN西语
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN阿语
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
