@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="东森新闻" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="foxnew" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png",foxnew
+https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",TVBS HD
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",翡翠台
+https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="TVBS 星河" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",TVBS 星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="TVBS 功夫" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",TVBS 功夫
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXWWE" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXWWE
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXMOVIE" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXMOVIE
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXMOVIE1" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXMOVIE1
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
@@ -239,27 +265,3 @@ https://live.funhillrm.com/5/sd/live.m3u8
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 group-title="北京台" tvg-id="房山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2022/0326/smallf7e7002ad94212bda9fa70cacc4482af1648266813.jpg",房山电视台
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="东森新闻" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",东森新闻
-http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",TVBS HD
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",翡翠台
-https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="TVBS 星河" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",TVBS 星河
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="TVBS 功夫" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",TVBS 功夫
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXWWE" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXWWE
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXMOVIE" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXMOVIE
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="NETFLIXMOVIE1" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",NETFLIXMOVIE1
-https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
